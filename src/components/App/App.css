@@ -1,0 +1,17 @@
+.header {
+  border: .5px solid rgb(73, 73, 73);
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.product-grid {
+  border: .5px solid rgb(73, 73, 73);
+  display: grid;
+  width: 100%;
+  justify-items: center;
+  grid-template-columns: repeat(1, 1fr);
+  grid-row-gap: 20px;
+  padding-top: 20px;
+}
+
