@@ -1,4 +1,4 @@
-{
+export const catalogData = {
   "catalogID": 3843,
   "name": "Jason's Awesome Catalog",
   "imageUri": "https://edel-images.azureedge.net/ea/OO/images/catalog_covers/original/icanhascheezburger.jpeg",
