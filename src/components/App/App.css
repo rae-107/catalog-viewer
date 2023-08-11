@@ -1,9 +1,13 @@
+* {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
 .header {
   border: .5px solid rgb(73, 73, 73);
   display: flex;
   justify-content: center;
   margin-bottom: 20px;
-  font-family: 'Mr De Haviland', cursive;
   font-size: 28px;
 }
 
